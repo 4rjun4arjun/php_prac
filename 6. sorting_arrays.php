@@ -38,5 +38,5 @@ foreach($keemat as $model=>$model_price){
     echo "$model is priced at: ₹$model_price crore <br>";
 }
 echo"-------------------- -------------------- ";
-echo "----- Arjun Mehrania -----";
+echo "<br>----- Arjun Mehrania -----";
 ?>
